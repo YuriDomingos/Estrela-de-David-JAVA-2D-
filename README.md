@@ -1,2 +1,8 @@
-# Estrela-de-David-JAVA-2D-
-#Estrela de David construida com a GeneralPath
+
+
+
+@Autor : Yuri Domingos
+
+#ESTRELA DE DAVID JAVA-2D 
+
+   A estrela foi desenhada com a GeneralPath
